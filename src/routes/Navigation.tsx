@@ -3,7 +3,7 @@ import { Routes, Route, NavLink, Navigate } from "react-router-dom"
 import logo from '../assets/react.svg'
 
 
-
+// Router v6
 export const Navigation = () => {
     return (
         <BrowserRouter>
